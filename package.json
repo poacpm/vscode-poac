@@ -34,6 +34,6 @@
         "vscode": "^1.1.28",
         "tslint": "^5.8.0",
         "@types/node": "^10.12.21",
-        "@types/mocha": "^5.2.5"
+        "@types/mocha": "^5.2.6"
     }
 }
